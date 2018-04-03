@@ -1,0 +1,14 @@
+[package]
+name = "server"
+version = "0.1.0"
+authors = ["Mona Lisa <halvor98@outlook.com>"]
+
+[dependencies]
+hyper = "*"
+futures = "*"
+mongodb = "*"
+bson = "*"
+serde = "*"
+serde_json = "*"
+serde_derive = "*"
+url = "*"
